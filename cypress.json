@@ -1,0 +1,16 @@
+{
+  "baseUrl": "https://www.saucedemo.com/",
+  "waitForFileChanges": true,
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "waitForAnimations": true,
+  "animationDistanceThreshold": 5,
+  "defaultCommandTimeout": 10000,
+  "execTimeout": 60000,
+  "pageLoadTimeout": 15000,
+  "requestTimeout": 10000,
+  "responseTimeout": 10000,
+  "video": false,
+  "failOnStatusCode": false,
+  "chromeWebSecurity": false
+}
